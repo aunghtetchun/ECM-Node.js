@@ -1,0 +1,12 @@
+{
+    "roles":[
+        {"name": "Owner"},
+        {"name": "Manager"},
+        {"name": "Supervisor"}
+    ],
+    "permits":[
+        {"name":"Create_Category"},
+        {"name":"Delete_Category"},
+        {"name":"Edit_Category"}
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "owner",
+        "email": "owner@example.com",
+        "phone": "1265766753",
+        "password": "asdffdsa"
+    },
+    {
+        "name": "manager",
+        "email": "manager@example.com",
+        "phone": "1236454554",
+        "password": "asdffdsa"
+    }
+]
